@@ -1,0 +1,13 @@
+{
+  "name": "landed-cost",
+  "version": "1.0.0",
+  "description": "Import landed-cost calculator and Incoterms 2020 explorer. Static site, no build step.",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/*.test.mjs",
+    "start": "python3 -m http.server 8080"
+  },
+  "engines": { "node": ">=18" }
+}
