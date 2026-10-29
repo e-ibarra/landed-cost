@@ -60,6 +60,6 @@ Rates are **editable defaults for planning**, not legal advice. Import duty depe
 
 ## About
 
-Built by a foreign-trade analyst with thirteen years of import operations and process automation in Argentina's electronics industry, as the calculator I wished suppliers' quotes came with.
+Built by a foreign-trade analyst with more than a decade of import operations and process automation in Argentina's electronics industry, as the calculator I wished suppliers' quotes came with.
 
 Licensed MIT. Archivo font by Omnibus-Type, SIL Open Font License (`assets/fonts/OFL.txt`).
