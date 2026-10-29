@@ -6,7 +6,7 @@ A free calculator for small importers, freight forwarders' clients and foreign-t
 
 ![Screenshot of the calculator](assets/screenshot.png)
 
-**Live:** published with GitHub Pages from this repository (see `Settings → Pages`).
+**Live:** https://e-ibarra.github.io/landed-cost/
 
 ## Why another calculator
 
